@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.single-card-container {
+  max-width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  border: 1px solid #000000;
+  margin: 5px;
+  border-radius: 10px;
+}
+.name {
+  font-size: 15px;
+  align-self: center;
+  font-weight: bold;
+}

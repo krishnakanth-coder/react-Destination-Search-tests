@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.destination-search-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+.home-card {
+  align-self: center;
+}
+.search-header {
+  font-size: 28px;
+  text-align: center;
+}
+.search-button {
+  width: 60vw;
+  padding: 5px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid aqua;
+}
+.multiple-cards-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+}
